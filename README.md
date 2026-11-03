@@ -7,7 +7,7 @@ Proyek PHP, Laravel, dan Flask tampil sebagai pratinjau statis dengan data conto
 | Proyek | Isi | Demo |
 | --- | --- | --- |
 | [Segmentasi Pelanggan E-Commerce](https://github.com/Jauzaaaaaaaaaaaaaaa/segmentasi-pelanggan-ecommerce) | Penelitian CRISP-DM yang membandingkan K-Means dan K-Medoids, dengan dasbor interaktif. | [Buka](https://portofolio-jauza-fawaid.netlify.app/SIDANG-SEGMENTASI/) |
-| [FER Monitor](https://github.com/Jauzaaaaaaaaaaaaaaa/fer-monitor) | Pemantau ekspresi wajah dari webcam dengan MobileNetV2, MTCNN, dan Flask. Proyek kelompok. | [Buka](https://portofolio-jauza-fawaid.netlify.app/DETEKSI-EKSPRESI/) |
+| [Facial Expression Detector](https://github.com/Jauzaaaaaaaaaaaaaaa/fer-monitor) | Pendeteksi ekspresi wajah dari webcam dengan MobileNetV2, MTCNN, dan Flask. Proyek kelompok. | [Buka](https://portofolio-jauza-fawaid.netlify.app/DETEKSI-EKSPRESI/) |
 | [KodeQuiz](https://github.com/Jauzaaaaaaaaaaaaaaa/kodequiz) | PWA belajar data dan ERP: 974 soal, buku PDF, dan Lab SQL. | [Buka](https://portofolio-jauza-fawaid.netlify.app/KUIS-KODING/) |
 | [Rental PlayStation](https://github.com/Jauzaaaaaaaaaaaaaaa/playstation_rent_website) | Aplikasi admin PHP dan MySQL dengan laporan omzet. | [Buka](https://portofolio-jauza-fawaid.netlify.app/RENTAL-PLAYSTATION/) |
 | [Laporan Data Mahasiswa](https://github.com/Jauzaaaaaaaaaaaaaaa/laporan-data-mahasiswa) | CRUD Laravel dengan rekap per jurusan serta ekspor Excel dan PDF. | [Buka](https://portofolio-jauza-fawaid.netlify.app/DATA-MAHASISWA-LAPORAN/) |
